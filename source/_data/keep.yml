@@ -54,14 +54,14 @@ style:
 social_contact:
   enable: true
   links:
-    github: https://github.com/wjdready          # your GitHub URL
+    github: https://github.com/LZQ52Hz          # your GitHub URL
     weixin:          # your WeChat QR-Code URL
     qq:              # your QQ QR-Code URL
     weibo:           # your WeiBo URL
     zhihu:           # your ZhiHu URL
     twitter:         # your twitter URL
     facebook:        # your facebook URL
-    email: wjdready@163.com          # your email
+    email: LZQ52Hz@163.com          # your email
 
 
 # ---------------------------------------------------------------------------------------

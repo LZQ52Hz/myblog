@@ -7,7 +7,7 @@ title: Keep
 subtitle: 
 description: 
 keywords:
-author: 东东
+author: 风清扬
 language: zh-CN
 timezone: 
 
@@ -113,7 +113,6 @@ theme: keep
 deploy:
   type: 'git'
   repo: 
-    github: https://github.com/wjdready/wjdready.github.io.git
-    gitee: https://gitee.com/wjundong/wjundong.gitee.io.git
+    github: https://github.com/LZQ52Hz/LZQ52Hz.github.io.git
   branch: master
 
